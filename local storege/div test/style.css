@@ -1,0 +1,19 @@
+aside,main{
+    min-height: 20vh;
+    width: 50%;
+}
+
+aside{
+    background-color: gray;
+    width: 30%;
+}
+
+main{
+    background-color: aqua;
+    width: 70%;
+}
+
+section{
+    display: flex;
+    gap: 30px;
+}
